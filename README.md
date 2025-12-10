@@ -2,7 +2,7 @@
 
 ResQApp is a 🚨 discreet safety and support app designed to protect individuals from domestic violence by providing:
 
-📞 Quick emergency help
+📞 Quick emergency help 
 
 💾 Secure file storage
 
