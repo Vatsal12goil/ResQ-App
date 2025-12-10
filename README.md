@@ -4,6 +4,7 @@ ResQApp is a 🚨 discreet safety and support app designed to protect individual
 
 📞 Quick emergency help 
 
+
 💾 Secure file storage
 
 💬 Real-time chat with trusted contacts or experts
